@@ -1,7 +1,7 @@
 [
     {
         "concept": "High-Velocity IT (HVIT)",
-        "definition": "Definition: The application of digital technology for significant business enablement, where speed and time to market are crucial across the service lifecycle.",
+        "definition": "Definition: The application of **digital technology** for significant business enablement, where speed and time to market are crucial across the service lifecycle.",
         "chapterref": "Chapter 1 - Introduction to HVIT",
         "tags": [
             "HVIT",
@@ -12,7 +12,7 @@
     },
     {
         "concept": "Digital Organization",
-        "definition": "Definition: An organization that is enabled by digital technology to conduct business differently or operate with a new digital-first business model.",
+        "definition": "Definition: An organization that is enabled by **digital technology** to conduct business differently or operate with a new **digital-first business model.**",
         "chapterref": "Chapter 2 - Key Concepts of HVIT",
         "tags": [
             "digital transformation",
