@@ -22,7 +22,7 @@
     },
     {
         "concept": "Digital Transformation",
-        "definition": "Definition: The use of digital technology to significantly improve realization of an organization's objectives, enhancing value in ways non-digital methods could not.",
+        "definition": "Definition: The use of **digital technology** to significantly **improve realization** of an organization's objectives, **enhancing value** in ways non-digital methods could not.",
         "chapterref": "Chapter 2 - Key Concepts of HVIT",
         "tags": [
             "transformation",
@@ -32,7 +32,7 @@
     },
     {
         "concept": "Minimum Viable Product (MVP)",
-        "definition": "Definition: A product version with sufficient features to gather user feedback, validate its concept, and reduce waste by aligning with user needs.",
+        "definition": "Definition: A product version with **sufficient features** to gather user feedback, validate its concept, and reduce waste by aligning with user needs.",
         "chapterref": "Chapter 4 - HVIT Techniques",
         "tags": [
             "product development",
@@ -42,7 +42,7 @@
     },
     {
         "concept": "Service Value System (SVS)",
-        "definition": "Definition: An overarching model that defines how various organizational components and activities interact to co-create value through IT services.",
+        "definition": "Definition: An overarching model that defines how various organizational components and activities interact to **co-create value** through IT services.",
         "chapterref": "Chapter 5 - ITIL Service Value System for HVIT",
         "tags": [
             "value system",
@@ -52,7 +52,7 @@
     },
     {
         "concept": "Continuous Integration",
-        "definition": "Definition: A software development approach that involves regularly integrating, building, and testing code within the development environment.",
+        "definition": "Definition: A software development approach that involves regularly **integrating, building, and testing** code within the development environment.",
         "chapterref": "Chapter 4 - HVIT Techniques",
         "tags": [
             "CI/CD",
@@ -62,7 +62,7 @@
     },
     {
         "concept": "Continual Improvement",
-        "definition": "Definition: A structured approach for consistent progress across all services and processes to align with changing stakeholder needs and improve outcomes.",
+        "definition": "Definition: A structured approach for **consistent progress** across all services and processes to align with changing stakeholder needs and improve outcomes.",
         "chapterref": "Chapter 5 - Continual Improvement",
         "tags": [
             "improvement",
@@ -72,7 +72,7 @@
     },
     {
         "concept": "Service Value Chain",
-        "definition": "Definition: The ITIL operating model defining essential activities needed to respond to demand and achieve value realization.",
+        "definition": "Definition: The ITIL **operating model** defining essential activities needed to respond to demand and achieve **value realization**.",
         "chapterref": "Chapter 5 - ITIL Service Value System for HVIT",
         "tags": [
             "operating model",
@@ -82,7 +82,7 @@
     },
     {
         "concept": "Kanban",
-        "definition": "Definition: A visual method for managing workflow and tracking work in progress, helping to identify blockages and manage resources.",
+        "definition": "Definition: A **visual method** for managing workflow and **tracking work in progress**, helping to identify blockages and manage resources.",
         "chapterref": "Chapter 4 - HVIT Techniques",
         "tags": [
             "workflow",
@@ -92,7 +92,7 @@
     },
     {
         "concept": "AIOps",
-        "definition": "Definition: Application of machine learning and big data to automate IT operations, providing continuous insights and improvements.",
+        "definition": "Definition: Application of **machine learning** and **big data** to automate IT operations, providing continuous insights and improvements.",
         "chapterref": "Chapter 4 - HVIT Techniques",
         "tags": [
             "AI",
@@ -102,7 +102,7 @@
     },
     {
         "concept": "Andon",
-        "definition": "Definition: A notification system used to alert workers to quality or process issues, originating from manufacturing practices.",
+        "definition": "Definition: A notification system used to **alert workers to quality or process issues**, originating from manufacturing practices.",
         "chapterref": "Chapter 4 - HVIT Techniques",
         "tags": [
             "notification system",
@@ -112,7 +112,7 @@
     },
     {
         "concept": "Blameless Post-Mortem",
-        "definition": "Definition: A review of incidents that focuses on understanding causes without assigning blame, fostering learning and improvement.",
+        "definition": "Definition: A review of incidents that focuses on **understanding causes without assigning blame**, fostering learning and improvement.",
         "chapterref": "Chapter 4 - HVIT Techniques",
         "tags": [
             "incident management",
@@ -122,7 +122,7 @@
     },
     {
         "concept": "Microservices",
-        "definition": "Definition: A service-oriented architecture where an application is a set of small, loosely coupled services, each in its own process.",
+        "definition": "Definition: A **service-oriented architecture** where an application is a set of small, **loosely coupled services**, each in **its own process**.",
         "chapterref": "Chapter 4 - HVIT Techniques",
         "tags": [
             "architecture",
@@ -132,7 +132,7 @@
     },
     {
         "concept": "Containerization",
-        "definition": "Definition: Packaging software into lightweight, stand-alone executable units for streamlined development, deployment, and scalability.",
+        "definition": "Definition: Packaging software into **lightweight, stand-alone executable units** for streamlined **development, deployment, and scalability**.",
         "chapterref": "Chapter 4 - HVIT Techniques",
         "tags": [
             "software packaging",
@@ -142,7 +142,7 @@
     },
     {
         "concept": "Digital Product",
-        "definition": "Definition: A product in which digital technology plays a significant role in its core resources, goods, or service interactions.",
+        "definition": "Definition: A product in which **digital technology** plays a significant role in its core resources, goods, or service interactions.",
         "chapterref": "Chapter 2 - Key Concepts of HVIT",
         "tags": [
             "digital product",
@@ -152,7 +152,7 @@
     },
     {
         "concept": "Lean Culture",
-        "definition": "Definition: A work culture emphasizing efficiency by eliminating waste, with respect for people and a commitment to continuous improvement.",
+        "definition": "Definition: A work culture emphasizing efficiency by **eliminating waste**, with respect for people and a **commitment to continuous improvement**.",
         "chapterref": "Chapter 3 - HVIT Culture",
         "tags": [
             "efficiency",
@@ -162,7 +162,7 @@
     },
     {
         "concept": "Governance",
-        "definition": "Definition: The structure by which an organization is directed and controlled to align its practices with its goals and stakeholder needs.",
+        "definition": "Definition: The structure by which an organization is **directed and controlled** to **align** its practices with its **goals and stakeholder needs**.",
         "chapterref": "Chapter 5 - ITIL Service Value System for HVIT",
         "tags": [
             "governance",
