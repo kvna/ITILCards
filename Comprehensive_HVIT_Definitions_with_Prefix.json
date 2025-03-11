@@ -169,5 +169,65 @@
             "control",
             "organizational alignment"
         ]
+    },
+    {
+        "concept": "Chaos Engineering",
+        "definition": "Definition: A discipline that experiments on a system to build confidence in its capability to withstand turbulent conditions in production.",
+        "chapterref": "Chapter 4 - HVIT Techniques",
+        "tags": ["resilience", "system reliability", "fault tolerance", "experimentation"]
+    },
+    {
+        "concept": "Shift-Left Testing",
+        "definition": "Definition: A practice of moving testing earlier in the development lifecycle to detect and fix defects sooner.",
+        "chapterref": "Chapter 4 - HVIT Techniques",
+        "tags": ["testing", "CI/CD", "software quality", "DevOps"]
+    },
+    {
+        "concept": "Inner and Outer Loop Feedback",
+        "definition": "Definition: A feedback mechanism that differentiates between rapid team-level feedback (inner loop) and broader organizational insights (outer loop).",
+        "chapterref": "Chapter 4 - HVIT Techniques",
+        "tags": ["feedback loop", "continuous improvement", "team efficiency"]
+    },
+    {
+        "concept": "Resilience Engineering",
+        "definition": "Definition: A proactive approach to designing IT systems that can withstand failures and recover quickly.",
+        "chapterref": "Chapter 4 - HVIT Techniques",
+        "tags": ["system resilience", "disaster recovery", "fault tolerance"]
+    },
+    {
+        "concept": "Swarming in Incident Management",
+        "definition": "Definition: A collaborative approach where multiple teams or specialists work together to resolve incidents quickly.",
+        "chapterref": "Chapter 4 - HVIT Techniques",
+        "tags": ["incident management", "collaboration", "DevOps", "IT operations"]
+    },
+    {
+        "concept": "Feature Flags",
+        "definition": "Definition: A technique that enables or disables application features without deploying new code.",
+        "chapterref": "Chapter 4 - HVIT Techniques",
+        "tags": ["feature management", "A/B testing", "agile development", "DevOps"]
+    },
+    {
+        "concept": "Dark Launching",
+        "definition": "Definition: A technique where new features are released to a limited audience before full deployment to mitigate risks.",
+        "chapterref": "Chapter 4 - HVIT Techniques",
+        "tags": ["feature rollout", "risk mitigation", "DevOps"]
+    },
+    {
+        "concept": "Service Mesh",
+        "definition": "Definition: A dedicated infrastructure layer that manages service-to-service communication in microservices architectures.",
+        "chapterref": "Chapter 4 - HVIT Techniques",
+        "tags": ["microservices", "service communication", "network management"]
+    },
+    {
+        "concept": "Game Days",
+        "definition": "Definition: A practice of running controlled failure scenarios to test system resilience and incident response.",
+        "chapterref": "Chapter 4 - HVIT Techniques",
+        "tags": ["disaster recovery", "incident response", "fault tolerance"]
+    },
+    {
+        "concept": "Observability Maturity Model",
+        "definition": "Definition: A framework to assess and improve an organization’s ability to monitor, detect, and respond to issues in real time.",
+        "chapterref": "Chapter 4 - HVIT Techniques",
+        "tags": ["monitoring", "IT operations", "observability"]
     }
 ]
